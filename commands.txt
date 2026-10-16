@@ -1,0 +1,26 @@
+git add <file>
+git add .
+git commit -m
+git checkout <id lub branch name> - przelacza galezie
+git status
+git log <daje id commitow np>
+git switch -
+
+UNDO COMMITS
+git revert <id> adding additional commit, mozna pozniej przejsc do innego
+git reset --hard <id> - usuwa commit po tym, ostroznie z tym
+
+.gitingore file
+mozna tu dodac co ma ingnorowac np. vscode, logo.png - sciezke do pliku
+
+branches - git inicjalizuje main/master branch zawsze na poczatku. Branches are containers that keep commits.
+
+git branch <name> - inicjalizuje nowy branch z wszystkimi Twoimi commitami z main branch, mozesz na tej galezi pracowac i commitowac bez wplywu na main branch.
+
+git branch - wyswietla gdzie doklanie jestes wj kaim branch, zeby przelaczyc do nowo utworoznego branch wpisz: git checkout <name of the branch>
+
+git branch -D <name of the branch> - deletes branch
+
+git checkout -b <name of the branch> - tworzy i od razu przelacza branch na nowo utworozny branch
+
+git merge <name> - 
