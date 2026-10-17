@@ -27,3 +27,5 @@ git merge <name> -
 
 
 git push origin <name of the new branch> - pushuje zmiany do nowego brancha
+
+git pull - sciaga z githuba na local
