@@ -24,3 +24,6 @@ git branch -D <name of the branch> - deletes branch
 git checkout -b <name of the branch> - tworzy i od razu przelacza branch na nowo utworozny branch
 
 git merge <name> - 
+
+
+git push origin <name of the new branch> - pushuje zmiany do nowego brancha
