@@ -21,10 +21,6 @@ git branch - wyswietla gdzie doklanie jestes wj kaim branch, zeby przelaczyc do 
 
 git branch -D <name of the branch> - deletes branch
 
-<<<<<<< HEAD
 git checkout -b <name of the branch> - tworzy i od razu przelacza branch na nowo utworozny branch
-=======
-git branch -b <name of the branch> - tworzy i od razu przelacza branch na nowo utworozny branch
->>>>>>> test
 
 git merge <name> - 
