@@ -1,0 +1,10 @@
+workflow dodajesz do repository.
+
+workflow includes jobs, each job includes steps.
+
+worflow - attached to github repository. contains one or more jobs which are triggered by events.
+
+Jobs - define runners and steps.
+
+steps - belong to jobs. Shell script or action. jons run in parallel, steps run 1 by 1.
+steps and jobs can be conditional.
